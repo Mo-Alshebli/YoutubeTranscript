@@ -1,0 +1,8 @@
+youtube-transcript-api
+requests
+streamlit
+streamlit-cookies-manager
+streamlit-lottie
+streamlit-option-menu
+streamlit_lottie
+firebase-admin
